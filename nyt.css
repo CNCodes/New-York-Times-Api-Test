@@ -1,0 +1,63 @@
+body{
+}
+
+.container{
+    max-width: 1200px;
+}
+
+.header{
+    text-align: center;
+    padding: 50px 0;
+    color: white;
+    background: rgb(24, 56, 124);
+    border-radius: 15px;    
+}
+h5{
+    padding: 10px 20px;
+}
+p{
+    margin-bottom: 10px;
+}
+
+.section{
+    /* padding: 20px; */
+    border: black 2px solid;
+    margin: 20px 0;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.section-head{
+    background: rgb(24, 56, 124);
+    color: white;    
+    border-radius: 8px 8px 0 0;
+    /* border-radius: 10px;     */ 
+}
+.section-content{
+    padding: 0 20px;
+    height: fit-content;
+}
+.text-inputs{
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid rgb(24, 56, 124);
+    padding: 2px;
+}
+.btn-standard{
+    margin-top: 5px;
+    background-color: grey;
+    color: white;
+}
+input{
+    margin-bottom: 10px;
+}
+
+/* Top Articles */
+.final-article{
+    border: 1px black solid;
+    padding: 10px;
+}
+.number{
+    padding-right: 20px;
+}
